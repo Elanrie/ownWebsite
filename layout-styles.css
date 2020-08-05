@@ -131,16 +131,16 @@ button, input, select, textarea {
 }
 
 
-.btn-primary:hover, 
-.btn-primary:focus, 
-.btn-primary:active, 
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
 .btn-primary.active {
     background-color: #729E3A;
     border-color: #496626;
     color: #fff;
 }
 
-.btn:hover, 
+.btn:hover,
 .btn:focus {
     text-decoration: none;
 }
@@ -157,4 +157,10 @@ button, input, select, textarea {
   clear:both;
   text-align: center;
   font-size: 14px;
+}
+
+.only {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 20px;
 }
